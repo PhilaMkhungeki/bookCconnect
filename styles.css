@@ -40,3 +40,21 @@ body {
     object-fit: cover; /* ensures the image fits the container while preserving aspect ratio */
     border-bottom: 1px solid #ddd;
 }
+
+.book-card .book-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #2c3e50;
+}
+
+.book-card .book-author {
+    font-size: 1em;
+    color: #8e44ad;
+    margin-bottom: 5px 0;
+}
+
+.book-card .book-info {
+    font-size: 0.9em;
+    color: #7f8c8d;
+    margin-bottom: 5px 0;
+}
